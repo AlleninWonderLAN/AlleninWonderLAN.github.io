@@ -35,6 +35,8 @@ A segmented virtual network with firewall rules, documented and tested.
 ---
 
 ### About
-I'm an IT auditor with prior incident-response experience and a focus on applied
-cryptography. I care about work that's not just functional but clearly documented and
-safely executed. [LinkedIn](#) | [GitHub](https://github.com/AlleninWonderLan)
+My background in cybersecurity encompasses enterprise IT audit, incident response, and security operations, with technical interests rooted in applied cryptography, malware analysis, offensive security, and systems engineering. I’m particularly drawn to the intersection of computational theory, adversarial behavior, and security architecture—where understanding a system requires examining not only its intended design, but also its underlying assumptions, failure modes, and susceptibility to exploitation.
+
+My interests increasingly extend into artificial intelligence, computational security, and the evolving relationship between technological capability and systemic risk. I approach technical work through investigation, experimentation, and critical analysis, with an emphasis on reproducibility, defensible conclusions, and practical application. This repository serves as a record of that exploration, connecting hands-on security engineering with broader questions in computer science and applied research.
+
+Connect: LinkedIn | GitHub [LinkedIn](#) | [GitHub](https://github.com/AlleninWonderLan)
