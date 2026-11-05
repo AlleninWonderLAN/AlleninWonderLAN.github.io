@@ -39,4 +39,4 @@ My background in cybersecurity encompasses enterprise IT audit, incident respons
 
 My interests increasingly extend into artificial intelligence, computational security, and the evolving relationship between technological capability and systemic risk. I approach technical work through investigation, experimentation, and critical analysis, with an emphasis on reproducibility, defensible conclusions, and practical application. This repository serves as a record of that exploration, connecting hands-on security engineering with broader questions in computer science and applied research.
 
-Connect: LinkedIn | GitHub [LinkedIn](#) | [GitHub](https://github.com/AlleninWonderLan)
+Connect: LinkedIn | GitHub [LinkedIn](https://www.linkedin.com/in/kaschia-allen) | [GitHub](https://github.com/AlleninWonderLan)
