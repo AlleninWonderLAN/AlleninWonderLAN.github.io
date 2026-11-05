@@ -4,7 +4,7 @@
 
 M.S. in Cybersecurity and Information Assurance | ECES | SSCP | Security+ | Pentest+ |Network+
 
-I design and document hands-on security projects across five domains. Each links to a
+I design and document hands-on security projects across multiple domains. Each domain links to a
 focused repository with a full write-up: objective, architecture, method, and findings.
 
 ---
